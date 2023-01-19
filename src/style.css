@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'getSchwifty';
+    src: url(./fonts/get_schwifty.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'getSchwifty';
+}
+
+body {
+    text-align: center;
+}
+
+table {
+    padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2em;
+}
+
+button {
+    margin-top: 20px;
+    font-size: 2em;
+}
+
+.character-status {
+    color: yellowgreen;
+}
